@@ -1,5 +1,9 @@
-# FlappyBirdClone
+# Flappy Bird Clone
 
-<a href="https://imgur.com/PaYbtp3"><img src="https://i.imgur.com/jKCmnhT.gif" title="source: imgur.com" /></a>
+![GIF](https://github.com/nate51315/FlappyBirdClone/blob/master/flappy.gif)
 
-Flappy Bird Close built using C# Windows Forms
+### Flappy Bird Clone
+This clone was built using C# Windows Forms. This game was fun to make. Clone this repository and mess around with the code.
+
+## License
+This project is licensed under MIT. Please see [LICENSE file](https://github.com/nate51315/PasswordGenerator/blob/master/LICENSE)
